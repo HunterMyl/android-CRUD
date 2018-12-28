@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">List of Clients</string>
+    <string name="title_activity_act_main">List of Clients</string>
+    <string name="title_activity_act_cad_cliente">Client</string>
+    <string name="lbl_nome">Name</string>
+    <string name="lbl_endereco">Address</string>
+    <string name="lbl_telefone">Phone</string>
+    <string name="lbl_email">E-mail</string>
+    <string name="title_menu_ok">Ok</string>
+    <string name="title_menu_cancelar">Cancel</string>
+    <string name="title_aviso">Warning</string>
+    <string name="message_campos_invalidos_brancos">Exist invalid or blank fields</string>
+    <string name="lbl_ok">OK</string>
+    <string name="message_conexao_criada_sucesso">Connection created successfully</string>
+    <string name="title_erro">Error</string>
+    <string name="action_ok">OK</string>
+    <string name="title_menu_excluir">Delete</string>
+</resources>
